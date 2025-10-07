@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    align-self: stretch;
+
+}
+.fondo{
+    transition:transform 4s ease ;
+    
+
+}
+.fondo:hover{
+    transform: translatey(-100px);
+    transform: translateX(100px);
+    
+}
+
+
+
+
+
